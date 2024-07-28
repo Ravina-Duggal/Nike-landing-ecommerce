@@ -11,7 +11,7 @@ A responsive Nike landing page built with React + Vite, and Tailwind CSS.
 
 ## Demo
 
-[Live Demo](https://nike-page-pks.vercel.app/)
+[Live Demo](https://nike-landingpage-react.netlify.app)
 
 ## Getting Started
 
